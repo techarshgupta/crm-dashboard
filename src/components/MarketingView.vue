@@ -47,7 +47,7 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { ref } from 'vue'
 import { Chart, Grid, Tooltip, Bar } from 'vue3-charts'
 

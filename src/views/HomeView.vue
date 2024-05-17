@@ -12,7 +12,7 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import OverView from '@/components/OverView.vue'
 import ProductChat from '@/components/ProductChat.vue'
 import WorkFlow from '@/components/WorkFlow.vue'

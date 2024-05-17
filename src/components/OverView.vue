@@ -81,7 +81,7 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 // import ProductChat from './ProductChat.vue'
 import { ref } from 'vue'
 

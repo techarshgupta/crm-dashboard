@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import HeaderView from '@/components/HeaderView.vue'
-import SideBarView from '@/components/SideBarView.vue'
+import SideBarView from './components/SideBarView.vue'
 </script>
 
 <template>

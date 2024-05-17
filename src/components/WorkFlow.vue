@@ -70,7 +70,7 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { ref } from 'vue'
 import { Chart, Grid, Line, Tooltip } from 'vue3-charts'
 
